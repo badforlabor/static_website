@@ -13,3 +13,6 @@
 
 .idea
 dist
+
+upload/
+static_webserver
